@@ -336,6 +336,49 @@ lang: ja_JP
 </svg>
 
 
+<h3>2022.7/1</h3>
+
+
+<canvas id="myCanvas" width="800" height="800"></canvas>
+<script>
+var canvas = document.getElementById('myCanvas');
+var context = canvas.getContext('2d');
+
+
+for(var x=0;x<700;x++)
+{
+        for(var y=0;y<600;y++)
+        {
+                var i= -4;
+                var cx=-2+x/50;
+                var cy=-2+y/50;
+                var zx=0.06;
+                var zy=0.04; 
+                var z =zx*zy*i                       
+
+                do
+                {
+                        var xt=zx*zy;
+                        zx=zx*zx-zy*zy+cx;
+                        zy=2*xt+cy;
+                        i++;
+
+                        
+                }
+                while(i<255&&(zx*zx+zy*zy)<4);
+
+                var color=i.toString(8);
+                context.beginPath();
+                context.rect(zx*x*color,(i*y+(z*zy*zy*i))/(zx+zy),(z*zy*zy*i)*30,i*i);
+                context.fillStyle ='#'+color+color+color;
+                context.fill();
+                
+        }
+        
+}
+
+</script>
+
 </body>
 <footer>
 <p>
