@@ -339,7 +339,7 @@ lang: ja_JP
 <h3>2022.7/1</h3>
 
 
-<canvas id="myCanvas" width="30%" height="30%"></canvas>
+<canvas id="myCanvas" width="70%" height="70%"></canvas>
 <script>
 var canvas = document.getElementById('myCanvas');
 var context = canvas.getContext('2d');
