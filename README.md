@@ -29,6 +29,5 @@ The picture will also change depending on the specs of your PC or android. The p
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 
-<img src="https://drive.google.com/uc?export=view&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo" >
 
 ![akaaomurasaki](https://user-images.githubusercontent.com/86036169/174021754-d26e0b60-a9f5-4af9-bc87-9afa16f1bd7b.svg)
