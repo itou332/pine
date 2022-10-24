@@ -11,6 +11,7 @@ This is where I record the pictures I draw on my PC.<br>
 This site looks a little different if you use dark mode or change your browser.<br>
 The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
 
+##　この項の表示方法を改善しました。
 
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
