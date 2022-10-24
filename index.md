@@ -120,7 +120,7 @@ for(var x=0;x<700;x++)
 <img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_10_13.svg">
 
 <h3>2022.10/17</h3>
-<img src="">
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_10_24.svg">
 
 
 </body>
