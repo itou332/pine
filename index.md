@@ -59,8 +59,8 @@ lang: ja_JP
 <body>
 
 <h3>2022.6/28</h3>
-<img src="">
-<object type="image/svg+xml" data="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_6_28.svg" width="192"></object>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_6_28.svg">
+
 
 <h3>2022.7/1</h3>
 
