@@ -37,4 +37,3 @@ The picture is written almost in SVG format.
     -<a href="http://itou33good.starfree.jp/">itou</a>
        </nav>
        
-![akaaomurasaki](https://user-images.githubusercontent.com/86036169/174021754-d26e0b60-a9f5-4af9-bc87-9afa16f1bd7b.svg)
