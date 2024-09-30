@@ -1,0 +1,16 @@
+User-agent: *
+Disallow:https://itou332.github.io/pine/
+Allow: https://pine-6ar.pages.dev/
+
+# サイトマップへのアクセス
+Allow:https://github.com/itou332/pine/blob/main/sitemap.xml
+
+# 国別パスの場合
+Allow:https://pine-6ar.pages.dev/en-US/
+Allow:https://pine-6ar.pages.dev/ja/
+Allow:https://pine-6ar.pages.dev/en-EU/
+Allow:https://pine-6ar.pages.dev/en-IN/
+Allow:https://pine-6ar.pages.dev/en-IE/
+Allow:https://pine-6ar.pages.dev/fr-FR/
+
+Sitemap:https://github.com/itou332/pine/blob/main/sitemap.xml
